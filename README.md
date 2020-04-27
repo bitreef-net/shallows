@@ -14,7 +14,7 @@ run node to start the app and server web requests.
 To run the continer you can use a command such as:
 1.  ```sudo docker run -it --rm -p 127.0.0.1:80:8080 shallows:latest sh```  
 
-To run the app you can run the following from the container shell:
+To run the app you can run the following from the container shell:  
 2. ```nodejs app```
 
 
